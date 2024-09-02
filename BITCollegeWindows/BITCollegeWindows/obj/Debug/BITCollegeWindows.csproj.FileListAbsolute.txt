@@ -1,0 +1,55 @@
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\bin\Debug\BITCollegeWindows.exe.config
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\bin\Debug\BITCollegeWindows.exe
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\bin\Debug\BITCollegeWindows.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.csproj.AssemblyReference.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.BatchUpdate.resources
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.BITCollege.resources
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.Grading.resources
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.History.resources
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.Properties.Resources.resources
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.StudentData.resources
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.csproj.GenerateResource.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.csproj.CoreCompileInputs.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.exe
+C:\Users\nturner\OneDrive - Red River College\Desktop\docx\Assignment 06 Files\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.pdb
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\BITCollegeWindows.exe.config
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\BITCollegeWindows.exe
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\BITCollegeWindows.pdb
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\BITCollege_JW.dll
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\EntityFramework.dll
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\Utility.dll
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\System.Web.Optimization.dll
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\System.Web.Mvc.dll
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\System.Web.WebPages.dll
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\System.Web.Razor.dll
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\BITCollege_JW.pdb
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\BITCollege_JW.dll.config
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\Utility.pdb
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\EntityFramework.xml
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\System.Web.Optimization.xml
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\System.Web.Mvc.xml
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\System.Web.WebPages.xml
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\System.Web.Razor.xml
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.csproj.AssemblyReference.cache
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.BatchUpdate.resources
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.BITCollege.resources
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.Grading.resources
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.History.resources
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.Properties.Resources.resources
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.StudentData.resources
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.csproj.GenerateResource.cache
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.csproj.CoreCompileInputs.cache
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.csproj.CopyComplete
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.exe
+C:\Users\wujia\source\repos\BITCollege_JW\BITCollegeWindows\BITCollegeWindows\obj\Debug\BITCollegeWindows.pdb

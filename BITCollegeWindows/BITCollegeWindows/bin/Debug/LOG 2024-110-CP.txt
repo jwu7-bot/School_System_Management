@@ -1,0 +1,2 @@
+
+Exception occuried: The 'program' attribute does not match an academic program acronym in the database.

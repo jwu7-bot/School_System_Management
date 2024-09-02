@@ -1,0 +1,18 @@
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\bin\Debug\Utility.dll
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\bin\Debug\Utility.pdb
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.dll
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.pdb
+C:\Users\jerry_wu\source\repos\BITCollege_JW\Utility\bin\Debug\Utility.dll
+C:\Users\jerry_wu\source\repos\BITCollege_JW\Utility\bin\Debug\Utility.pdb
+C:\Users\jerry_wu\source\repos\BITCollege_JW\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\jerry_wu\source\repos\BITCollege_JW\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\jerry_wu\source\repos\BITCollege_JW\Utility\obj\Debug\Utility.dll
+C:\Users\jerry_wu\source\repos\BITCollege_JW\Utility\obj\Debug\Utility.pdb
+C:\Users\wujia\source\repos\BITCollege_JW\Utility\bin\Debug\Utility.dll
+C:\Users\wujia\source\repos\BITCollege_JW\Utility\bin\Debug\Utility.pdb
+C:\Users\wujia\source\repos\BITCollege_JW\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\wujia\source\repos\BITCollege_JW\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\wujia\source\repos\BITCollege_JW\Utility\obj\Debug\Utility.dll
+C:\Users\wujia\source\repos\BITCollege_JW\Utility\obj\Debug\Utility.pdb

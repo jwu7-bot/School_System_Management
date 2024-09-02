@@ -1,0 +1,2 @@
+
+Exception occuried: The 'date' attribute of the XElement object is not equal to today’s date.

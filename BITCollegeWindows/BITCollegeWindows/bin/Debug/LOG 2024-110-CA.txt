@@ -1,0 +1,73 @@
+
+--------ERROR--------
+File: 2024-110-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>80000004</student_no>
+Course Number: <course_no>G-800009</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: 
+Notes: <notes>***ERROR*** Incorrect number of nodes</notes>
+Nodes: 6
+Message: Incorrect number of child elements
+---------------------
+
+--------ERROR--------
+File: 2024-110-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>80000001</student_no>
+Course Number: <course_no>G-80004</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>@</grade>
+Notes: <notes>***ERROR*** Invalid Grade Value</notes>
+Nodes: 7
+Message: Grade element is not numeric or '*'
+---------------------
+
+--------ERROR--------
+File: 2024-110-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>80000004</student_no>
+Course Number: <course_no>A-8007</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>100</grade>
+Notes: <notes>***ERROR***  Grade for Type 1 should be a *</notes>
+Nodes: 7
+Message: Grade is not '*' or grade out of range
+---------------------
+
+--------ERROR--------
+File: 2024-110-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>80000004</student_no>
+Course Number: <course_no>D-12345</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>*</grade>
+Notes: <notes>***ERROR*** Course does not exist</notes>
+Nodes: 7
+Message: Course number is not '*' or not in database
+---------------------
+
+--------ERROR--------
+File: 2024-110-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>80000002</student_no>
+Course Number: <course_no>G-80005</course_no>
+Registration Number: <registration_no>2001</registration_no>
+Type: <type>2</type>
+Grade: <grade>22</grade>
+Notes: <notes>***ERROR*** Course for Type 2 should be a *</notes>
+Nodes: 7
+Message: Course number is not '*' or not in database
+---------------------
+
+A grade of: 51 has been successfully applied to registration: 8019.
+A grade of: 35.4 has been successfully applied to registration: 8020.
+REGISTRATION ERROR: Student cannot register for a course in which there is already an ungraded registration.
+REGISTRATION ERROR: Student has exceeded maximum attempts on mastery course.
+Student: 80000004 has successfully registered for course: A-8002.
+Student: 80000004 has successfully registered for course: G-800003.
+Student: 80000004 has successfully registered for course: G-800004.

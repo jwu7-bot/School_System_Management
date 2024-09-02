@@ -1,0 +1,85 @@
+
+--------ERROR--------
+File: 2024-110-VT.xml
+Program: <program>VT</program>
+Student Number: <student_no>80000002</student_no>
+Course Number: <course_no>*</course_no>
+Registration Number: <registration_no>8011</registration_no>
+Type: <type>2</type>
+Grade: 
+Notes: <notes>***ERROR*** Incorrect number of Child Nodes</notes>
+Nodes: 6
+Message: Incorrect number of child elements
+---------------------
+
+--------ERROR--------
+File: 2024-110-VT.xml
+Program: <program>VV</program>
+Student Number: <student_no>80000003</student_no>
+Course Number: <course_no>*</course_no>
+Registration Number: <registration_no>8013</registration_no>
+Type: <type>2</type>
+Grade: <grade>90</grade>
+Notes: <notes>**ERROR*** Invalid Program Acronym</notes>
+Nodes: 7
+Message: Program element not match the program attribute of the root element
+---------------------
+
+--------ERROR--------
+File: 2024-110-VT.xml
+Program: <program>VT</program>
+Student Number: <student_no>80000002</student_no>
+Course Number: <course_no>M-80001</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>@</grade>
+Notes: <notes>***ERROR*** Invalid Grade Value</notes>
+Nodes: 7
+Message: Grade element is not numeric or '*'
+---------------------
+
+--------ERROR--------
+File: 2024-110-VT.xml
+Program: <program>VT</program>
+Student Number: <student_no>80000001</student_no>
+Course Number: <course_no>G-800004</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>100</grade>
+Notes: <notes>***ERROR***  Grade for Type 1 should be a *</notes>
+Nodes: 7
+Message: Grade is not '*' or grade out of range
+---------------------
+
+--------ERROR--------
+File: 2024-110-VT.xml
+Program: <program>VT</program>
+Student Number: <student_no>1111</student_no>
+Course Number: <course_no>G-800004</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>*</grade>
+Notes: <notes>***ERROR*** Student does not exist</notes>
+Nodes: 7
+Message: Student number not in the database
+---------------------
+
+--------ERROR--------
+File: 2024-110-VT.xml
+Program: <program>VT</program>
+Student Number: <student_no>80000003</student_no>
+Course Number: <course_no>G-800005</course_no>
+Registration Number: <registration_no>1000</registration_no>
+Type: <type>2</type>
+Grade: <grade>22</grade>
+Notes: <notes>***ERROR*** Course for Type 2 should be a *</notes>
+Nodes: 7
+Message: Course number is not '*' or not in database
+---------------------
+
+A grade of: 93.2 has been successfully applied to registration: 8012.
+A grade of: 91.6 has been successfully applied to registration: 8014.
+A grade of: 91 has been successfully applied to registration: 8015.
+A grade of: 90 has been successfully applied to registration: 8013.
+Student: 80000003 has successfully registered for course: A-8002.
+Student: 80000003 has successfully registered for course: G-800004.
